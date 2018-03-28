@@ -34,7 +34,7 @@
 
 ## 按键说明
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image1.jpg)
+![](image1.jpg)
 
 ## 按键功能
 | 按键名 | 功能1 | 功能2 |
@@ -47,7 +47,7 @@
 
 ## 供电接口
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image2.jpg)
+![](image2.jpg)
 
 本机使用普通 ***microUSB*** 接口供电,只要用一条microUSB线把本机与PC的USB口或者手机的电源适配器相连,即可自动开机.
 > ***注意:*** 请不要使用带有快充功能的电源适配器为本机供电!否则有可能会烧毁本机!只能使用5V供电!
@@ -56,15 +56,15 @@
 主界面一共有三种模式,分别如下:
 ### 模式一(默认模式)
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image3.jpg)
+![](image3.jpg)
 
 ### 模式二
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image4.jpg)
+![](image4.jpg)
 
 ### 模式三
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image5.jpg)
+![](image5.jpg)
 
 ## 菜单界面
 ### 操作说明
@@ -74,42 +74,42 @@
 ### 图标说明
 | 功能 | 图标 |
 |:---:|:---:|
-| 时间 | ![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image6.jpg) |
-| 闹钟 | ![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image7.jpg) |
-| 日历 | ![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image8.jpg) |
-| 生日 | ![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image9.jpg) |
-| 农历 | ![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image10.jpg) |
-| 温湿度 | ![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image11.jpg) |
-| 系统设置 | ![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image12.jpg) |
-| 系统信息| ![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image13.jpg) |
-| 贪吃蛇游戏| ![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image14.jpg) |
-| 俄罗斯方块 | ![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image15.jpg) |
+| 时间 | ![](image6.jpg) |
+| 闹钟 | ![](image7.jpg) |
+| 日历 | ![](image8.jpg) |
+| 生日 | ![](image9.jpg) |
+| 农历 | ![](image10.jpg) |
+| 温湿度 | ![](image11.jpg) |
+| 系统设置 | ![](image12.jpg) |
+| 系统信息| ![](image13.jpg) |
+| 贪吃蛇游戏| ![](image14.jpg) |
+| 俄罗斯方块 | ![](image15.jpg) |
 
 
 ## 时间设置
 ### 小时调整
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image16.jpg)
+![](image16.jpg)
 
 按 ***[Left/Sub]*** 和 ***[Right/Add]*** 键可上下调整小时,只能在 ***[0-23]*** 之间调整.调整完之后按 ***[Enter/Down]*** 键进入分钟调整.
 > ***注意:*** 小时调整必须使用24小时制时间,与主界面显示模式无关!在所有设置项中按 ***[Exit/Up]*** 键会放弃调整并退出.
 
 ### 分钟调整
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image17.jpg)
+![](image17.jpg)
 
 按 ***[Left/Sub]*** 和 ***[Right/Add]*** 键可上下调整分钟,只能在 ***[0-59]*** 之间调整.调整完之后按 ***[Enter/Down]*** 键进入秒调整.
 
 ### 秒调整
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image18.jpg)
+![](image18.jpg)
 
 按 ***[Left/Sub]*** 和 ***[Right/Add]*** 键可上下调整分钟,只能在 ***[0-59]*** 之间调整.调整完之后按 ***[Enter/Down]*** 键进入保存配置界面.
 
 
 ### 保存设置
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image19.jpg)
+![](image19.jpg)
 
 按 ***[Left/Sub]*** 和 ***[Right/Add]*** 键可选择是否保存刚才的调整.
 如果要保存,选择Y之后按 ***[Exit/Up]*** 键即可退出并保存刚才所有的配置.
@@ -120,32 +120,32 @@
 ## 日历设置
 ### 年调整
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image20.jpg)
+![](image20.jpg)
 
 按 ***[Left/Sub]*** 和 ***[Right/Add]*** 键可上下调整年,只能在 ***[0-99]*** 之间调整.调整完之后按 ***[Enter/Down]*** 键进入星期调整.
 
 ### 周调整
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image21.jpg)
+![](image21.jpg)
 
 按 ***[Left/Sub]*** 和 ***[Right/Add]*** 键可上下调整星期,只能在 ***[1-7]*** 之间调整.调整完之后按 ***[Enter/Down]*** 键进入月调整.
 > ***注意:*** 1代表星期一,7代表星期日,以此类推.(新版已更新,使用英文简写表示)
 
 ### 月调整
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image22.jpg)
+![](image22.jpg)
 
 按 ***[Left/Sub]*** 和 ***[Right/Add]*** 键可上下调整月,只能在 ***[1-12]*** 之间调整.调整完之后按 ***[Enter/Down]*** 键进入日调整.
 
 ### 日调整
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image23.jpg)
+![](image23.jpg)
 
 按 ***[Left/Sub]*** 和 ***[Right/Add]*** 键可上下调整日,只能在 ***[1-31]*** 之间调整.调整完之后按 ***[Enter/Down]*** 键进入保存配置界面.
 
 ### 保存设置
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image19.jpg)
+![](image19.jpg)
 
 操作方式同上.
 
@@ -153,19 +153,19 @@
 ## 生日设置
 ### 月调整
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image22.jpg)
+![](image22.jpg)
 
 按 ***[Left/Sub]*** 和 ***[Right/Add]*** 键可上下调整月,只能在 ***[1-12]*** 之间调整.调整完之后按 ***[Enter/Down]*** 键进入日调整.
 
 ### 日调整
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image23.jpg)
+![](image23.jpg)
 
 按 ***[Left/Sub]*** 和 ***[Right/Add]*** 键可上下调整日,只能在 ***[1-31]*** 之间调整.调整完之后按 ***[Enter/Down]*** 键进入保存配置界面.
 
 ### 保存设置
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image19.jpg)
+![](image19.jpg)
 
 操作方式同上.
 
@@ -173,19 +173,19 @@
 ## 查看农历
 ### 查看闰月
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image24.jpg)
+![](image24.jpg)
 
 ***Y*** 表示当月是闰月, ***N*** 表示当月不是闰月,按 ***[Enter/Down]*** 键查看农历月.
 
 ### 查看农历月
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image25.jpg)
+![](image25.jpg)
 
 ***1-12*** 分别表示农历正月到腊月, 按 ***[Enter/Down]*** 键查看农历日.
 
 ### 查看农历日
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image26.jpg)
+![](image26.jpg)
 
 ***1-30*** 分别表示农历初一到三十,按 ***[Exit/Up]*** 键退出.
 
@@ -193,13 +193,13 @@
 ## 查看温湿度
 ### 查看温度
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image27.jpg)
+![](image27.jpg)
 
 按 ***[Enter/Down]*** 键可以继续查看湿度.按 ***[Exit/Up]*** 键即可退出.
 
 ### 查看湿度
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image28.jpg)
+![](image28.jpg)
 
 按 ***[Enter/Down]*** 键可以继续查看湿度.按 ***[Exit/Up]*** 键即可退出.
 
@@ -207,14 +207,14 @@
 ## 系统设置
 ### 电源(待机)设置
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image29.jpg)
+![](image29.jpg)
 
 按 ***[Left/Sub]*** 和 ***[Right/Add]*** 键可上下调整电源选项,只能在 ***[Y-N]*** 之间调整.
 选择N并保存之后可以关闭显示,进入待机模式.继续按 ***[Enter/Down]*** 键进入测试模式设置.
 
 ### 测试模式
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image30.jpg)
+![](image30.jpg)
 
 按 ***[Left/Sub]*** 和 ***[Right/Add]*** 键可上下调整测试模式开关,只能在 ***[Y-N]*** 之间调整.
 选择Y并保存之后可以开启点阵坏点检测模式.继续按 ***[Enter/Down]*** 键进入亮度设置.
@@ -222,7 +222,7 @@
 
 ### 亮度设置
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image31.jpg)
+![](image31.jpg)
 
 按 ***[Left/Sub]*** 和 ***[Right/Add]*** 键可上下调整亮度,只能在 ***[0-10]*** 之间调整.本机默认亮度为0.
 继续按 ***[Enter/Down]*** 键进入主页模式设置.
@@ -230,67 +230,67 @@
 
 ### 主界面模式设置
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image32.jpg)
+![](image32.jpg)
 
 按 ***[Left/Sub]*** 和 ***[Right/Add]*** 键可上下调主界面模式,只能在 ***[1-3]*** 之间调整.本机默认模式为1.
 继续按 ***[Enter/Down]*** 键进入24小时制设置.
 
 ### 24小时制设置
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image33.jpg)
+![](image33.jpg)
 
 按 ***[Left/Sub]*** 和 ***[Right/Add]*** 键可上下调24小时制模式,只能在 ***[Y-N]*** 之间调整.本机默认模式为N,即不使用24小时制.
 继续按 ***[Enter/Down]*** 键进入系统静音设置界面.
 
 ### 静音(勿扰)模式设置
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image34.jpg)
+![](image34.jpg)
 
 按 ***[Left/Sub]*** 和 ***[Right/Add]*** 键可开启/关闭静音模式,只能在 ***[Y-N]*** 之间调整.本机默认为不静音.
 继续按 ***[Enter/Down]*** 键进入欢迎界面设置界面.
 
 ### 欢迎界面设置
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image35.jpg)
+![](image35.jpg)
 
 按 ***[Left/Sub]*** 和 ***[Right/Add]*** 键可开启/关闭欢迎界面,只能在 ***[Y-N]*** 之间调整.本机默认为显示欢迎界面.
 继续按 ***[Enter/Down]*** 键进入保存配置界面.
 
 ### 保存设置
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image19.jpg)
+![](image19.jpg)
 
 操作方式同上.
 
 ## 系统信息
 ### 软件版本
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image36.jpg)
+![](image36.jpg)
 
 按 ***[Enter/Down]*** 键可以继续查看硬件版本.按 ***[Exit/Up]*** 键即可退出.
 
 ### 硬件版本
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image37.jpg)
+![](image37.jpg)
 
 按 ***[Enter/Down]*** 键可以继续查看版本发布时间.按 ***[Exit/Up]*** 键即可退出.
 
 ### 发布时间
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image38.jpg)
+![](image38.jpg)
 
 按 ***[Enter/Down]*** 键可以继续查看客户ID.按 ***[Exit/Up]*** 键即可退出.
 
 ### 客户ID
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image39.jpg)
+![](image39.jpg)
 
 按 ***[Enter/Down]*** 键可以继续查看软件版本.按 ***[Exit/Up]*** 键即可退出.
 
 
 ## 贪吃蛇游戏
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image40.jpg)
+![](image40.jpg)
 
 在贪吃蛇游戏过程中,使用上下左右方向键控制贪吃蛇移动方向.
 使用红外键盘中的数字0键退出游戏, OK键暂停/继续游戏,
@@ -299,7 +299,7 @@
 
 ## 俄罗斯方块游戏
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image41.jpg)
+![](image41.jpg)
 
 在俄罗斯方块游戏过程中,使用左右方向键控制方块左右移动,
 使用下方向键改变方块形状,使用上方向键退出游戏.
@@ -311,11 +311,11 @@
 本机预留有ISP软件升级接口,可以通过USB转串口线和STC单片机烧录工具对本机系统软件进行升级.
 升级接口引脚如下:
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image42.jpg)
+![](image42.jpg)
 
 升级方法如下:
 
-![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image43.jpg)
+![](image43.jpg)
 
 点击下载之后,把本机的GND,RXD,TXD月USB转串口板的GND,RXD,TXD一一相连,
 之后便会自动开始下载程序到单片机,如果遇到无法检测到单片机可以把RXD和TXD连线交换后再试.
