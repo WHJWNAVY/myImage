@@ -38,7 +38,7 @@
 
 ## 按键功能
 | 按键名 | 功能1 | 功能2 |
-|---|---|---|
+|:---:|:---:|:---:|
 | UP | 上方向键 | 退出 |
 | DOWN | 下方向键 | 确定 |
 | LEFT | 左方向键 | 减 |
@@ -73,7 +73,7 @@
 选中之后按 ***[Enter/Down]*** 键即可进入对应的设置界面.
 ### 图标说明
 | 功能 | 图标 |
-|---|---|
+|:---:|:---:|
 | 时间 | ![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image6.jpg) |
 | 闹钟 | ![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image7.jpg) |
 | 日历 | ![](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/mini3216/image8.jpg) |
