@@ -28,22 +28,23 @@
 ### main.c
 系统主函数模块,包含各种变量的定义及初始化,系统模块初始化和系统主循环.
 系统主循环采用 *switch case状态机*  模式.状态机默认为主页模式, 在主循环中不断检测按键状态, 在状态机中根据按键状态改变状态机的模式.状态机主要有以下几种模式:
+
 |状态机代码|含义|
 |:---:|:---:|
-|SYS_PAGE_MAIN|主界面
-|SYS_PAGE_MENU|菜单界面
-|SYS_PAGE_SET_CLOCK|时间设置界面
-|SYS_PAGE_SET_ALARM|闹钟设置界面
-|SYS_PAGE_SET_DATE|日期设置界面
-|SYS_PAGE_GET_TEMP|查看温度湿度界面
-|SYS_PAGE_SET_SYSTEM|设置界面
-|SYS_PAGE_PLAY_SNAKE|贪吃蛇游戏界面
-|SYS_PAGE_PLY_TETRIS|俄罗斯方块界面
-|SYS_PAGE_GET_SINFO|系统信息界面
-|SYS_PAGE_GET_NONLI|查看农历
-|SYS_PAGE_SET_BRTDY|生日设置
-|SYS_PAGE_POWER|关闭显示模式
-|SYS_PAGE_TEST_LED|屏幕测试模式
+|SYS_PAGE_MAIN|主界面|
+|SYS_PAGE_MENU|菜单界面|
+|SYS_PAGE_SET_CLOCK|时间设置界面|
+|SYS_PAGE_SET_ALARM|闹钟设置界面|
+|SYS_PAGE_SET_DATE|日期设置界面|
+|SYS_PAGE_GET_TEMP|查看温度湿度界面|
+|SYS_PAGE_SET_SYSTEM|设置界面|
+|SYS_PAGE_PLAY_SNAKE|贪吃蛇游戏界面|
+|SYS_PAGE_PLY_TETRIS|俄罗斯方块界面|
+|SYS_PAGE_GET_SINFO|系统信息界面|
+|SYS_PAGE_GET_NONLI|查看农历|
+|SYS_PAGE_SET_BRTDY|生日设置|
+|SYS_PAGE_POWER|关闭显示模式|
+|SYS_PAGE_TEST_LED|屏幕测试模式|
 
 ```c
 void main(void)
