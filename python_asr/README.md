@@ -1,7 +1,7 @@
 # Python实时语音识别控制
 
 ## 概述
-本文中的语音识别功能采用 [百度语音识别库](http://ai.baidu.com/tech/speech/asr) ，首先利用 *PyAudio*库录制语音指令，保存为受支持的*wav* 音频文件，然后利用 *百度语音识别库* 提供的方法实现语音识别，最后检测识别结果，利用 *PyUserInput* 库提供的方法模拟控制web页面滚动。
+本文中的语音识别功能采用 [百度语音识别库](http://ai.baidu.com/tech/speech/asr) ，首先利用 ***PyAudio*** 库录制语音指令，保存为受支持的 ***wav*** 音频文件，然后利用 ***百度语音识别库*** 提供的方法实现语音识别，最后检测识别结果，利用 ***PyUserInput*** 库提供的方法模拟控制web页面滚动。
 百度语音识别为开发者提供业界优质且免费的语音服务,通过场景识别优化,为车载导航,智能家居和社交聊天等行业提供语音解决方案,准确率达到90%以上,让您的应用绘“声”绘色。
 
 ![百度语音AI](https://raw.githubusercontent.com/WHJWNAVY/myImage/master/python_asr/baidu.png)
@@ -13,23 +13,26 @@
 ```bash
 pip install baidu-aip
 ```
-### 安装Python音频处理库 *PyAudio*
+### 安装Python音频处理库 ***PyAudio***
 ```bash
 python -m pip install pyaudio
 ```
-### 安装鼠标控制库PyUserInput
+### 安装鼠标控制库 ***PyUserInput***
 ```bash
 pip install pyuserinput
 ```
-*PyUserInput* 库依赖另外两个库 *pywin32* 和 *pyHook* ，需要单独安装。
+***PyUserInput*** 库依赖另外两个库 ***pywin32*** 和 ***pyHook*** ，需要单独安装。
 安装方法可以参考下面这篇文章：[Win10 Python3.5安装PyUserInput](https://blog.csdn.net/ligang_csdn/article/details/54667295)
 
 令附文中提到的资源下载链接：[lfd-pythonlibs](https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml)
  
 另外文中提到的两个包, 需要根据自己的系统和python版本来选择。
-> 如果系统是64位的，就要选择带 *amd64* 的。
-> 如果python版本为python3.7的，就要选择带 *cp37* 的。
- 比如：*pywin32-223-cp37-cp37m-win_amd64.whl*  *pyHook-1.5.1-cp37-cp37m-win_amd64.whl*
+> 如果系统是64位的，就要选择带 ***amd64*** 的。
+
+> 如果python版本为python3.7的，就要选择带 ***cp37*** 的。
+
+ 比如：***pywin32-223-cp37-cp37m-win_amd64.whl***  
+***pyHook-1.5.1-cp37-cp37m-win_amd64.whl***
 
 ### 申请百度开发者帐号
 参考下面链接中的文章注册百度帐号,完成开发者认证,创建应用,获取密钥
@@ -38,7 +41,7 @@ pip install pyuserinput
 ## 用Pyaudio库录制音频
 *Pyaudio* 是一个非常强大的音频处理库,简单几行代码即可实现音频播放,录制等功能.
 百度语音识别API支持的语音格式有: *pcm(不压缩)*、*wav(不压缩，pcm编码)*、*amr(压缩格式)*. 
-推荐pcm, 采样率:16000固定值, 编码:16bit, 位深:单声道.百度服务端会将非pcm格式, 转为pcm格式, 因此使用wav, amr会有额外的转换耗时.
+推荐 ***pcm*** , 采样率: ***16000*** 固定值, 编码: ***16bit*** , 位深: ***单声道*** .百度服务端会将非pcm格式, 转为pcm格式, 因此使用wav, amr会有额外的转换耗时.
 为了实现实时语音识别功能, 这里通过pyaudio录制一段wav格式的音频, 报文成wav音频文件, 供后续识别时调用.
 
 ```py
